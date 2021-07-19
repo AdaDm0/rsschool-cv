@@ -1,12 +1,12 @@
 # Anastasia Salikova
 
-[![Alt text](placehold.it/150x100)](https://cloud.mail.ru/public/RsXd/PZn3nXHbq/)
+[![Here is photo](placehold.it/150x100)](https://cloud.mail.ru/public/RsXd/PZn3nXHbq/)
 
 ### Personal Information
 Date of Birth: 07/02/1994 (27 years)  
 Location: Ryazan, Russia  
-Phone number:     8-900-907-9539  
 E-mail: a.d.salikova@mail.ru  
+Discord: advamns#3053  
 Github: https://github.com/AdaDm0
 
 ***LANGUAGES***
@@ -15,7 +15,7 @@ Github: https://github.com/AdaDm0
 - English – Intermediate
 
 ### About
-Have a nice day! I’m a begginer back-end developer with great experience in the government service. In the coming times of digital transformation, my goal is to work in the field of software development for the public sector. I am inquisitive, attentive to details and I want to develop in Back-end development
+Have a nice day! I’m a begginer back-end developer with great experience in the government service. In the coming times of digital transformation, my goal is to work in the field of software development for the public sector. I am inquisitive, attentive to details and going to develop in Back-end.
 
 
 ### Experience
@@ -29,7 +29,7 @@ Mar. 2014 - Apr. 2016|Department of the Federal Financial and Budgetary Supervis
 
 ### Education
 2013 - banking (Ryazan state Technological College)  
-2017 - state and municipal administration (Ryazan State University named after S.A. Esenin)  
-2018 - finance and credit (Ryazan State University named after S.A. Esenin)  
+2017 - state and municipal administration (Ryazan State University named for S. Yesenin)  
+2018 - finance and credit (Ryazan State University named for S. Yesenin)  
 
 
